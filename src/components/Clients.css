@@ -1,0 +1,162 @@
+.clients {
+  background: var(--bg-light);
+}
+
+.clients-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2.5rem;
+}
+
+.client-card {
+  background: var(--bg-white);
+  border-radius: 15px;
+  padding: 2.5rem;
+  box-shadow: var(--shadow);
+  transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  border-top: 4px solid var(--primary-color);
+}
+
+.client-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--primary-color), var(--accent-color));
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.4s ease;
+}
+
+.client-card:hover::before {
+  transform: scaleX(1);
+}
+
+.client-card:hover {
+  transform: translateY(-10px);
+  box-shadow: var(--shadow-hover);
+  border-top-color: var(--accent-color);
+}
+
+.client-logo {
+  margin-bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 80px;
+}
+
+.logo-placeholder {
+  font-size: 3rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-align: center;
+  width: 100%;
+  padding: 1rem;
+  border: 2px dashed var(--border-color);
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.client-card:hover .logo-placeholder {
+  border-color: var(--primary-color);
+  background: var(--bg-light);
+}
+
+.client-info {
+  flex: 1;
+  margin-bottom: 1.5rem;
+}
+
+.client-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.client-industry {
+  font-size: 0.95rem;
+  color: var(--accent-color);
+  font-weight: 600;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.client-description {
+  color: var(--text-light);
+  line-height: 1.8;
+  font-size: 0.95rem;
+  margin: 0;
+}
+
+.client-badge {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+  margin-top: auto;
+}
+
+.badge-icon {
+  width: 24px;
+  height: 24px;
+  background: var(--primary-color);
+  color: var(--bg-white);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.85rem;
+  font-weight: 700;
+  flex-shrink: 0;
+}
+
+.badge-text {
+  font-size: 0.9rem;
+  color: var(--text-light);
+  font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .clients-grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .client-card {
+    padding: 2rem;
+  }
+
+  .client-name {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .client-card {
+    padding: 1.5rem;
+  }
+
+  .logo-placeholder {
+    font-size: 2.5rem;
+    padding: 0.8rem;
+  }
+}
+
+
+
+

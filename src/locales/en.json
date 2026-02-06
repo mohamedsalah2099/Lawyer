@@ -1,0 +1,326 @@
+{
+  "nav": {
+    "home": "Home",
+    "specialties": "Specialties",
+    "cases": "Cases",
+    "clients": "Clients",
+    "contact": "Contact",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Expert Legal Representation",
+    "subtitle": "Dedicated to protecting your rights and achieving justice",
+    "cta": "Schedule Consultation"
+  },
+  "slider": {
+    "slide1": {
+      "title": "Landmark Legal Victory",
+      "subtitle": "Successfully defended major corporate client in groundbreaking case"
+    },
+    "slide2": {
+      "title": "International Arbitration Success",
+      "subtitle": "Achieved favorable settlement in complex cross-border dispute"
+    },
+    "slide3": {
+      "title": "Criminal Defense Excellence",
+      "subtitle": "Secured acquittal through meticulous legal strategy and evidence analysis"
+    },
+    "slide4": {
+      "title": "Corporate Law Expertise",
+      "subtitle": "Guided multi-million dollar merger with precision and legal excellence"
+    }
+  },
+  "specialties": {
+    "title": "Judicial Specialties",
+    "subtitle": "Comprehensive legal services across multiple practice areas",
+    "criminalCases": {
+      "title": "Criminal Cases",
+      "description": "Expert defense representation for criminal cases, ensuring your rights are protected throughout the legal process."
+    },
+    "laborDisputes": {
+      "title": "Labor Disputes",
+      "description": "Professional handling of employment disputes, workplace rights, and labor contract negotiations."
+    },
+    "commercialIssues": {
+      "title": "Commercial and Administrative Issues",
+      "description": "Comprehensive business law services including commercial disputes, administrative matters, and regulatory compliance."
+    },
+    "realEstateIssues": {
+      "title": "Real Estate Issues",
+      "description": "Expert handling of property transactions, real estate disputes, and all matters related to real estate law."
+    },
+    "legalConsultations": {
+      "title": "Legal Consultations",
+      "description": "Professional legal advice and consultations to help you understand your rights and legal options."
+    },
+    "inheritanceDisputes": {
+      "title": "Inheritance and Estate Division Disputes",
+      "description": "Sensitive and expert handling of inheritance disputes, estate division, and all matters related to wills and estates."
+    },
+    "contractDrafting": {
+      "title": "Contract and Letter Drafting",
+      "description": "Professional drafting of contracts, legal letters, and documents to protect your interests and ensure legal compliance."
+    },
+    "officialDocumentation": {
+      "title": "Official Documentation",
+      "description": "Certified documentation services for all your legal documents and official paperwork needs."
+    },
+    "agencyDocumentation": {
+      "title": "Agency Documentation",
+      "description": "Professional agency documentation services for power of attorney and other agency-related legal matters."
+    },
+    "corporateLawyer": {
+      "title": "Corporate Lawyer",
+      "description": "Expert corporate law services including business formation, compliance, mergers, acquisitions, and corporate governance."
+    },
+    "arbitrationLawyer": {
+      "title": "Arbitration Lawyer",
+      "description": "Specialized representation in arbitration proceedings, alternative dispute resolution, and mediation services."
+    }
+  },
+  "cases": {
+    "title": "Recent Victories",
+    "subtitle": "Successful cases and legal achievements",
+    "readMore": "Read More",
+    "case1": {
+      "title": "Landmark Corporate Merger",
+      "description": "Successfully represented a major corporation in a $50M merger deal, navigating complex regulatory requirements.",
+      "date": "2024"
+    },
+    "case2": {
+      "title": "Criminal Defense Victory",
+      "description": "Secured acquittal in high-profile criminal case through meticulous evidence analysis and strategic defense.",
+      "date": "2024"
+    },
+    "case3": {
+      "title": "Family Law Settlement",
+      "description": "Achieved favorable custody arrangement and fair asset distribution in complex divorce proceedings.",
+      "date": "2023"
+    },
+    "case4": {
+      "title": "Real Estate Dispute Resolution",
+      "description": "Resolved multi-party property dispute, protecting client's interests and securing substantial compensation.",
+      "date": "2023"
+    }
+  },
+  "contact": {
+    "title": "Contact Information",
+    "subtitle": "Get in touch for a consultation",
+    "address": {
+      "title": "Office Address",
+      "line1": "123 Legal Avenue",
+      "line2": "Suite 500",
+      "city": "New York, NY 10001",
+      "country": "United States"
+    },
+    "phone": {
+      "title": "Phone",
+      "number": "+1 (555) 123-4567"
+    },
+    "email": {
+      "title": "Email",
+      "address": "info@lawyerfirm.com"
+    },
+    "hours": {
+      "title": "Office Hours",
+      "weekdays": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "weekend": "Saturday: 10:00 AM - 2:00 PM",
+      "closed": "Sunday: Closed"
+    },
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send Message"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our legal services",
+    "faq1": {
+      "question": "What types of legal cases do you handle?",
+      "answer": "We handle a wide range of legal matters including criminal cases, labor disputes, commercial and administrative issues, real estate matters, inheritance disputes, contract drafting, official documentation, and corporate law. Our team of experienced attorneys specializes in various practice areas to provide comprehensive legal services."
+    },
+    "faq2": {
+      "question": "How much do your legal services cost?",
+      "answer": "Our fees vary depending on the complexity and type of case. We offer transparent pricing and will provide a detailed fee structure during your initial consultation. We also offer flexible payment plans for certain types of cases. Contact us for a personalized quote."
+    },
+    "faq3": {
+      "question": "How long does a typical case take to resolve?",
+      "answer": "The duration of a case depends on various factors including the complexity of the matter, court schedules, and the cooperation of all parties involved. Simple matters may be resolved in weeks, while complex litigation can take months or years. We will provide you with a realistic timeline during your consultation."
+    },
+    "faq4": {
+      "question": "Do you offer free consultations?",
+      "answer": "Yes, we offer an initial consultation to discuss your legal matter and assess how we can help. During this consultation, we will review your case, answer your questions, and explain our services and fees. This helps you make an informed decision about moving forward."
+    },
+    "faq5": {
+      "question": "What should I bring to my first consultation?",
+      "answer": "Please bring any relevant documents related to your case, such as contracts, court papers, correspondence, identification documents, and any other materials that might be relevant. If you're unsure what to bring, our team will guide you when you schedule your appointment."
+    },
+    "faq6": {
+      "question": "Do you handle cases outside of your local area?",
+      "answer": "Yes, we handle cases in multiple jurisdictions and can represent clients in various locations. We also work with a network of trusted legal professionals in different regions to ensure comprehensive representation. Please contact us to discuss your specific location and case requirements."
+    }
+  },
+  "video": {
+    "title": "Watch Our Video",
+    "subtitle": "Learn more about our legal services and expertise",
+    "videoId": "dQw4w9WgXcQ"
+  },
+  "clients": {
+    "title": "Our Valued Clients",
+    "subtitle": "Trusted by leading companies and organizations worldwide",
+    "trusted": "Trusted Partner",
+    "client1": {
+      "logo": "TECH",
+      "name": "TechCorp International",
+      "industry": "Technology",
+      "description": "Leading technology corporation with global operations. We provide comprehensive corporate legal services including mergers, acquisitions, and intellectual property protection."
+    },
+    "client2": {
+      "logo": "FIN",
+      "name": "Global Finance Group",
+      "industry": "Financial Services",
+      "description": "Premier financial services firm. Our team handles complex regulatory compliance, commercial disputes, and strategic business transactions."
+    },
+    "client3": {
+      "logo": "REAL",
+      "name": "Prime Real Estate Holdings",
+      "industry": "Real Estate",
+      "description": "Major real estate development company. We assist with property transactions, zoning issues, and real estate litigation matters."
+    },
+    "client4": {
+      "logo": "MAN",
+      "name": "Manufacturing Solutions Inc.",
+      "industry": "Manufacturing",
+      "description": "Industrial manufacturing leader. We provide legal support for labor disputes, contract negotiations, and corporate governance."
+    },
+    "client5": {
+      "logo": "HEALTH",
+      "name": "MediCare Systems",
+      "industry": "Healthcare",
+      "description": "Healthcare services provider. Our expertise includes regulatory compliance, medical malpractice defense, and healthcare contract drafting."
+    },
+    "client6": {
+      "logo": "EDU",
+      "name": "Education Excellence Group",
+      "industry": "Education",
+      "description": "Educational institution network. We handle employment law, student rights issues, and institutional compliance matters."
+    },
+    "client7": {
+      "logo": "RETAIL",
+      "name": "Retail Masters Corporation",
+      "industry": "Retail",
+      "description": "National retail chain. We provide legal services for commercial leases, vendor contracts, and consumer protection compliance."
+    },
+    "client8": {
+      "logo": "ENERGY",
+      "name": "Green Energy Solutions",
+      "industry": "Energy",
+      "description": "Renewable energy company. Our team assists with regulatory approvals, environmental compliance, and energy sector contracts."
+    }
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "subtitle": "Law Firm Management System",
+      "username": "Username",
+      "password": "Password",
+      "loginBtn": "Login",
+      "error": "Invalid username or password",
+      "usernamePlaceholder": "Enter username",
+      "passwordPlaceholder": "Enter password",
+      "defaultCreds": "Default: admin / admin123"
+    },
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "logout": "Logout",
+      "tabs": {
+        "slider": "Slider Management",
+        "faq": "FAQ Management",
+        "contact": "Contact Info",
+        "messages": "Messages"
+      }
+    },
+    "slider": {
+      "title": "Slider Management",
+      "description": "Manage slider content and visibility",
+      "addSlide": "Add New Slide",
+      "editSlide": "Edit Slide",
+      "slideTitle": "Title",
+      "slideSubtitle": "Subtitle",
+      "imageUrl": "Image URL",
+      "imageUrlPlaceholder": "Image URL (optional)",
+      "visible": "Visible",
+      "save": "Save",
+      "cancel": "Cancel",
+      "slides": "Slides",
+      "untitled": "Untitled",
+      "statusVisible": "Visible",
+      "statusHidden": "Hidden",
+      "show": "Show",
+      "hide": "Hide",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this slide?"
+    },
+    "faq": {
+      "title": "FAQ Management",
+      "description": "Add, edit, or delete frequently asked questions",
+      "addFAQ": "Add New FAQ",
+      "editFAQ": "Edit FAQ",
+      "question": "Question",
+      "answer": "Answer",
+      "questionPlaceholder": "Enter question",
+      "answerPlaceholder": "Enter answer",
+      "faqs": "FAQs",
+      "save": "Save",
+      "cancel": "Cancel",
+      "edit": "Edit",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this FAQ?"
+    },
+    "contact": {
+      "title": "Contact Information",
+      "description": "Edit contact details displayed on the website",
+      "address": "Address",
+      "line1": "Line 1",
+      "line2": "Line 2",
+      "city": "City",
+      "country": "Country",
+      "contactDetails": "Contact Details",
+      "phone": "Phone",
+      "email": "Email",
+      "officeHours": "Office Hours",
+      "weekdays": "Weekdays",
+      "weekend": "Weekend",
+      "closed": "Closed",
+      "weekdaysPlaceholder": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "weekendPlaceholder": "Saturday: 10:00 AM - 2:00 PM",
+      "closedPlaceholder": "Sunday: Closed",
+      "save": "Save Changes",
+      "saveSuccess": "Contact information saved successfully!"
+    },
+    "messages": {
+      "title": "Contact Messages",
+      "description": "View and manage messages sent through the contact form",
+      "messages": "Messages",
+      "noMessages": "No messages yet",
+      "messageDetails": "Message Details",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "date": "Date",
+      "message": "Message",
+      "delete": "Delete",
+      "deleteConfirm": "Are you sure you want to delete this message?"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "year": "2024"
+  }
+}
+
+
